@@ -1,4 +1,4 @@
-# !/usr/bin/env python3
+#!/usr/bin/env python3
 
 # tkinter - стандартный binding к Tk, который загружает библиотеку Tk в систему.
 # ttk - подмодуль tkinter, который реализует Python binding к новым виджетам Tk.
